@@ -1,4 +1,4 @@
-# government_and-_health
+# government_and_health
 
 Introduction
 
