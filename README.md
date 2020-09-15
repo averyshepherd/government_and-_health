@@ -1,5 +1,7 @@
 # government_and_health
 
+Model Created for Biostatistics in Spring 2019
+
 Introduction
 
 Objectives: Investigate how government investment in health affects weight of its constituents (as explained by BMI). Government investment is explained by domestic general government health expenditure (GGHE-D) as percentage of gross domestic product (GDP) (%) and existence of an operational, multisectoral national non-communicable disease (NCD) policy, strategy or action plan that integrates several NCDs and their risk. I am motivated because I believe that governments should intervene in their population’s health.
